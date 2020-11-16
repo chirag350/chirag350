@@ -1,9 +1,9 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CatingEzz" alt="CatingEzz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chirag350" alt="chirag350" /> </p>
 
-- 🤖 I’m currently working on [Cating Discord Bot](https://discord.com/login?redirect_to=%2Foauth2%2Fauthorize%3Fclient_id%3D714067151161393153%26scope%3Dbot%26permissions%3D2146958839)
+- 🤖 I’m currently working on [Doge Alliance](https://discord.gg/2tPCHn6)
 
 - 😄 Pronouns: He/Him
 
-- 💬 Contact me: Cating </>#9999
+- 💬 Contact me: Chirag.#0888
 
-![Cating's github stats](https://github-readme-stats.vercel.app/api?username=CatingEzz&hide=[])
+![my github stats](https://github-readme-stats.vercel.app/api?username=chirag350&hide=[])
