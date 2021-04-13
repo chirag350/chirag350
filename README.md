@@ -7,7 +7,7 @@
 - 🐶 I’m currently working on [Doge Bot](https://dogebot.ml/docs)
 - :brain: I’m currently learning JS/TS and CSS
 - 🥘 I’m looking for good food
-- 🥅 2020 Goals: eat more food, and bonk more people
+- 🥅 2021 Goals: eat more food, and bonk more people
 - ⚡ Fun fact: I love to eat
 
 ### Languages and Tools:
@@ -39,4 +39,3 @@
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [neon]: https://neon.kde.org/
-[eos]: https://elementary.io/
