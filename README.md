@@ -1,10 +1,10 @@
 ### Hi there, I'm Chirag the doge - aka Pog 👋
 
-[![Website](https://img.shields.io/website?label=DogeBot.ml&style=for-the-badge&url=https%3A%2F%2Fdogebot.ml)](https://dogebot.ml)
+[![Website](https://img.shields.io/website?label=DogeBoat.xyzl&style=for-the-badge&url=https%3A%2F%2Fdogeboat.xyz)](https://dogeboat.xyz)
 
 ## I'm a Student and a Developer!
 
-- 🐶 I’m currently working on [Doge Bot](https://dogebot.ml/docs)
+- 🐶 I’m currently working on [Doge Bot](https://dogeboat.xyz/docs)
 - :brain: I’m currently learning JS/TS and CSS
 - 🥘 I’m looking for good food
 - 🥅 2021 Goals: eat more food, and bonk more people
