@@ -1,6 +1,6 @@
 ### Hi there, I'm Chirag the doge - aka Pog 👋
 
-[![Website](https://img.shields.io/website?label=DogeBoat.xyzl&style=for-the-badge&url=https%3A%2F%2Fdogeboat.xyz)](https://dogeboat.xyz)
+[![Website](https://img.shields.io/website?label=DogeBoat.xyz&style=for-the-badge&url=https%3A%2F%2Fdogeboat.xyz)](https://dogeboat.xyz)
 
 ## I'm a Student and a Developer!
 
