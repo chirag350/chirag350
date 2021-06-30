@@ -1,6 +1,6 @@
 ### Hi there, I'm Chirag the doge - aka Pog 👋
 
-[![Website](https://img.shields.io/website?label=Eggactyl.cloudz&style=for-the-badge&url=https%3A%2F%2Feggactyl.cloud)](https://eggactyl.cloud)
+[![Website](https://img.shields.io/website?label=Eggactyl.cloud&style=for-the-badge&url=https%3A%2F%2Feggactyl.cloud)](https://eggactyl.cloud)
 
 ## I'm a Student and a Developer!
 
