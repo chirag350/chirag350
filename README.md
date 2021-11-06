@@ -1,4 +1,4 @@
-### Hi there, I'm Chirag the doge - aka Pog 👋
+### Hi there, I'm Chirag the doge 👋
 
 [![Website](https://img.shields.io/website?label=Eggactyl.cloud&style=for-the-badge&url=https%3A%2F%2Feggactyl.cloud)](https://eggactyl.cloud)
 
@@ -28,7 +28,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="chirag350's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=chirag350&show_icons=true&hide_border=true" />
+  <img align="left" alt="chirag350's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chirag350" />
 
 </details>
 
