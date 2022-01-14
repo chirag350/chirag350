@@ -1,30 +1,30 @@
-### Hi there, I'm Chirag the doge 👋
+### Hi there, I'm Chirag!
 
-[![Website](https://img.shields.io/website?label=Eggactyl.cloud&style=for-the-badge&url=https%3A%2F%2Feggactyl.cloud)](https://eggactyl.cloud)
+[![Website](https://img.shields.io/website?label=chiragdev.xyz&style=for-the-badge&url=https://chiragdev.xyz)](https://chiragdev.xyz)
 
 ## I'm a Student and a Developer!
 
-- 🐶 I’m currently working on [Doge Bot](https://dogeboat.xyz/docs)
-- :brain: I’m currently learning JS/TS and CSS
-- 🥘 I’m looking for good food
-- 🥅 2021 Goals: eat more food, and bonk more people
-- ⚡ Fun fact: I love to eat
+- 🐶 I’m currently working on [Eggactyl](https://eggactyl.cloud) and [NextBin](https://github.com/chirag350/Nextbin)
+- :brain: I’m currently learning Go and CSS.
+- 🥘 I’m looking for good boneless chicken wings
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsc]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][r]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][njs]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongo]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][]
-[<img align="left" alt="KDE neon" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Neon-logo.svg" />][neon]
-<br/>
+<img src="https://polypane.app/static/5df5528946772487a6ab462ff2125f26/icon.png" height="100" width="100">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/768px-Archlinux-icon-crystal-64.svg.png" height="100" width="100">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="100" width="100">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="100" width="100">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="100" width="100">
+
+<img src="https://kde.org/stuff/clipart/logo/kde-logo-white-gray-rounded-3000x3000.png" height="100" width="100">
 
 ---
+   
+   
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -32,10 +32,11 @@
 
 </details>
 
-[vsc]: https://code.visualstudio.com
-[r]: https://reactjs.org/
-[njs]: https://nodejs.org/
-[mongo]: https://mongodb.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/
-[neon]: https://neon.kde.org/
+
+<style>
+  img {
+    display: inline-block;
+    align: left;
+    float: left;
+  }
+</style>
