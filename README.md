@@ -1,28 +1,16 @@
 ### Hi there, I'm Chirag!
 
-[![Website](https://img.shields.io/website?label=chiragdev.xyz&style=for-the-badge&url=https://chiragdev.xyz)](https://chiragdev.xyz)
 
-## I'm a Student and a Developer!
+<a href="https://chirag.dev" ><img src="https://img.shields.io/website?label=chirag.dev&style=for-the-badge&url=https://chirag.dev" /></a> <img src="https://komarev.com/ghpvc/?username=chirag350&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="chirag350" /> <a href="https://twitter.com/chirag_lol" target="blank"><img src="https://img.shields.io/twitter/follow/chirag_lol?logo=twitter&style=for-the-badge" alt="chirag_lol" /></a>
 
-- 🐶 I’m currently working on [Eggactyl](https://eggactyl.cloud) and [NextBin](https://github.com/chirag350/Nextbin)
-- :brain: I’m currently learning Go and CSS.
-- 🥘 I’m looking for good boneless chicken wings
 
-### Languages and Tools:
+### Languages and Tools
 
-<img src="https://polypane.app/static/5df5528946772487a6ab462ff2125f26/icon.png" height="100" width="100" style="display: inline-block;align: left;float: left;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/768px-Archlinux-icon-crystal-64.svg.png" height="100" width="100" style="display: inline-block;align: left;float: left;">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="100" width="100" style="display: inline-block;align: left;float: left;">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="100" width="100" style="display: inline-block;align: left;float: left;">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="100" width="100" style="display: inline-block;align: left;float: left;">
-<img src="https://kde.org/stuff/clipart/logo/kde-logo-white-gray-rounded-3000x3000.png" height="100" width="100" style="display: inline-block;align: left;float: left;">
+<div>
+   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+</div>
 
----
-   
-   
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="chirag350's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chirag350" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chirag350&show_icons=true&theme=tokyonight&locale=en" alt="chirag350" /></p>
 
-</details>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chirag350&theme=dark" alt="chirag350" /></p>
